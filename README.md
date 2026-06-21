@@ -2,8 +2,6 @@
 
 A sleek, dark-themed desktop application built with Python and Tkinter that evaluates the strength of your passwords in real time — with detailed feedback and a common password database check.
 
-![Password Strength Checker Screenshot](screenshot.png)
-
 ---
 
 ## ✨ Features
@@ -15,15 +13,6 @@ A sleek, dark-themed desktop application built with Python and Tkinter that eval
 - **Show/Hide password toggle** — eye icon for visibility control
 - **Dark UI** — modern, minimalist interface with a deep purple accent theme
 - **CLI mode** — can also be run directly in the terminal without the GUI
-
----
-
-## 🖥️ Screenshots
-
-> The app running with a sample password showing a **Very Strong** result (7/7 score):
-
-![App Preview](screenshot.png)
-
 ---
 
 ## 📁 Project Structure
